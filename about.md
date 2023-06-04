@@ -6,6 +6,12 @@ title: About
 
 ---
 
-# About page 
+# About
 
-This page tells you a little bit about me.
+I'm a full-stack developer.
+
+I love music.
+
+I enjoy reading.
+
+I'm currently exploring myself and the world.
