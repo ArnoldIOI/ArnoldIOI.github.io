@@ -1,3 +1,8 @@
+---
+layout: post
+author: 0xAC
+---
+
 # 如何提升对自己的掌控感
 
 **题目是Nothing would be under control，这是事实，但提升对自己人生的掌控感，这是目标。目标是指明方向，虽然可能永远无法到达。**
