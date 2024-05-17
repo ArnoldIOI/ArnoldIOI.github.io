@@ -60,24 +60,24 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "Hello! This is 0xAC. I'm documenting my journey here:feet:. Feel free to browse around. If you're interested in me, feel free to reach out."
+    title: "0_0"
+    subtitle: "I'm no one documenting nonsense here. So just chill and enjoy :)"
     imageUrl: "apple-touch-icon.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Me
     buttons:
-      - name: Posts
+      - name: "🐿 Explore 🌰"
         url: posts
-      - name: Tags
-        url: tags
-      - name: Archive
-        url: archives
+      # - name: Tags
+      #   url: tags
+      # - name: Archive
+      #   url: archives
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome! :wave: \U0001F44B"
-    Content: Hello! This is 0xAC. I'm documenting my journey here. Feel free to browse around. If you're interested in me, feel free to reach out.
+    Title: "0_0"
+    Content: "I'm no one documenting nonsense here. So just chill and enjoy :)"
 
   socialIcons:
     # - name: x
