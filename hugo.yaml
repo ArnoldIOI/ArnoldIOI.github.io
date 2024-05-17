@@ -160,3 +160,7 @@ outputs:
     - JSON
 
 enableEmoji: true
+
+marketing:
+  analytics:
+    google_analytics: "G-H5EQHVTHZN"
