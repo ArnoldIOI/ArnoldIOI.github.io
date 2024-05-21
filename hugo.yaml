@@ -17,6 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  footer:
+    text: "Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)"
   title: "0xAC Site"
   description: "0xAC"
   keywords: [Blog, Portfolio, PaperMod]
